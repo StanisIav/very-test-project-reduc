@@ -1,0 +1,9 @@
+.OnePost{
+    border: 2px solid teal;
+    margin: 15px 0px 15px 0px;
+    min-width: 300px;
+}
+.AllPost{
+    padding: 50px;
+    width: auto;
+}

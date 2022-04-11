@@ -1,0 +1,25 @@
+{
+  "posts": [
+    {
+      "title": "efffffffff",
+      "body": "34",
+      "id": 20,
+      "Uptitle": null
+    },
+    {
+      "title": "1111111",
+      "body": "244",
+      "id": 21,
+      "Uptitle": "dsfsf"
+    },
+    {
+      "title": "11",
+      "body": "qweqew",
+      "id": 23
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
